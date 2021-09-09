@@ -15,7 +15,9 @@ public class ProbaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("first version of programm");
+        System.out.println("second version of programm");
+        
+        
     }
     
 }
